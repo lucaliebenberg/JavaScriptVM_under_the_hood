@@ -2,9 +2,9 @@ import { Flags, Instruction } from "./instructions";
 // import MEMORY from "./memory/01_add";
 // import MEMORY from "./memory/02_add_from_data";
 // import MEMORY from "./memory/03_sub_routine_no_stack";
-import MEMORY from "./memory/04_sub_routine";
+// import MEMORY from "./memory/04_sub_routine";
 // import MEMORY from "./memory/05_compiler";
-// import MEMORY from "./memory/06_fibonacci";
+import MEMORY from "./memory/06_fibonacci";
 
 // REGISTERS
 
