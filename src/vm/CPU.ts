@@ -1,4 +1,6 @@
 import { Flags, Instruction } from "./instructions";
+
+/* CPU simulated interactions */
 // import MEMORY from "./memory/01_add";
 // import MEMORY from "./memory/02_add_from_data";
 // import MEMORY from "./memory/03_sub_routine_no_stack";
